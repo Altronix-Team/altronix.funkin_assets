@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "header": "FNF-AltronixEngine",
+      "body": [
+        { "line": "A modification for Friday Night Funkin'" },
+        { "line": "Created by Altronix Team" }
+      ]
+    },
+    {
+      "header": "Altronix Team",
+      "body": [
+        { "line": "AltronMaxX - Programmer" },
+        { "line": "Tut_byl_ya - Tester" }
+      ]
+    },
+    {
       "header": "Friday Night Funkin'",
       "body": [
         { "line": "A video game created by" },
@@ -111,15 +125,8 @@
       "body": [
         { "line": "BassetFilms" },
         { "line": "Kohta Takahashi" },
-        { "line": "Lotus Juice"},
-        { "line": "METAROOM"},
-        { "line": "nuphory"},
-        { "line": "Saster" },
         { "line": "SixImpala" },
-        { "line": "TeraVex"},
-        { "line": "ThatAndyGuy"},
-        { "line": "tsuyunoshi"},
-        { "line": "xploshi"}
+        { "line": "Saster" }
       ]
     },
     {
@@ -133,7 +140,7 @@
       "header": "Additional Programming",
       "body": [
         { "line": "Jenny Crowe" },
-        { "line": "ember ana" },
+        { "line": "hazel (ravy)" },
         { "line": "Mike Welsh" },
         { "line": "Saharan" },
         { "line": "Ian Harrigan" },
@@ -141,13 +148,13 @@
         { "line": "Emma (MtH)" },
         { "line": "George Kurelic" },
         { "line": "Will Blanton" },
-        { "line": "Victor - Cheemsandfriends" }
+        { "line": "Cheemsandfriends - FlxAnimate" }
       ]
     },
     {
       "header": "Devops and Additional Internal Tooling",
       "body": [
-        { "line": "ember ana" }
+        { "line": "hazel (ravy)" }
       ]
     },
     {
